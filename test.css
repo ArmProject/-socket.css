@@ -1,3 +1,55 @@
-#test1{
-	background-color: red ;
+.bt_size{
+	width: 30px;
+	height: 40px;
+}
+
+.home_page{
+	background-image: url("glyphicons_020_home.png");
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+.draw_page{
+	background-image: url("glyphicons_150_edit.png");
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+.slide_page{
+	background-image: url("glyphicons_160_imac.png");
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+.quiz_page{
+	background-image: url("glyphicons_194_circle_question_mark.png");
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+.chat{
+	background-image: url("glyphicons_245_chat.png");
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+.tag{
+	background-image: url("glyphicons_066_tags.png");
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+.home{
+	background-image: url("glyphicons_020_home.png");
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+.home{
+	background-image: url("glyphicons_020_home.png");
+	background-position: center;
+}
+
+.toolbar{
+	
 }
